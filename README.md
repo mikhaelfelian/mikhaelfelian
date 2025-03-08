@@ -1,9 +1,7 @@
 # Hi there, Welcome to my Github Repository 👋
 
 ## 🚀 About Me
-Saya adalah seorang **Web Developer** yang memiliki pengalaman dalam pengembangan aplikasi berbasis **PHP**, khususnya menggunakan **CodeIgniter 4**. Dengan keahlian dalam **MySQL**, saya mampu merancang dan mengoptimalkan database untuk memastikan performa terbaik dalam setiap aplikasi yang saya bangun.
-
-Selain itu, saya juga memiliki pemahaman dalam **pengelolaan Web Server**, mulai dari konfigurasi hingga optimasi agar website dapat berjalan dengan stabil dan aman. Dalam pengembangan proyek, saya terbiasa bekerja dengan metodologi **Agile / Scrum**, sehingga mampu beradaptasi dengan perubahan dan bekerja secara kolaboratif dalam tim.
+Saya adalah Developer berpengalaman dalam **PHP, CodeIgniter 4, MySQL**, dan **Web Server Management**. Terbiasa bekerja dengan **Agile/Scrum** dan memiliki keahlian dalam AI, Machine Learning, serta IT Security.
 
 💡 **Keahlian Utama:**  
 ✅ CodeIgniter 4  
